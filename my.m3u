@@ -5,5 +5,8 @@ rtp://239.3.1.129:8008
 rtp://239.3.1.173:8001
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6
 rtp://239.3.1.174:8001
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",体育赛事
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13.png" group-title="央视",CCTV-13
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k.png" group-title="央视",CCTV-4K
 rtp://239.3.1.245:2000
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="国际",CGTN新闻
